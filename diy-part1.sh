@@ -16,3 +16,6 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git xiaoqing https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng' >>feeds.conf.default
+echo 'src-git src-git apollo https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
+echo 'src-git xiaoqingfengATGH https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom' >>feeds.conf.default
